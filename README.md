@@ -4,13 +4,13 @@ A passionate Programmer from Ghana
 🔭 I’m currently studying Information Technology at Ho Technical University  
 🌱 I’m a Python enthusiast currently learning Django  
 👨‍💻 All of my projects are available at [My GitHub](https://github.com/amondickson)  
-📫 You can reach me via [Email](mailto:techwithamon@gmail.com)  
+📫 You can reach me via [Email](mailto:amondickson281@gmail.com)  
 
 ---
 
 ## 🌍 Connect with me:  
 <p align="left">
-  <a href="https://www.linkedin.com/in/dickson-amon" target="_blank">
+  <a href="https://www.linkedin.com/in/dickson-amon-70a38a301" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/Orio_Flames" target="_blank">
