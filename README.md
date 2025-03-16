@@ -2,7 +2,7 @@
 A passionate Programmer from Ghana  
 
 🔭 I’m currently studying Information Technology at Ho Technical University  
-🌱 I’m a python enthusiast currently learning Django  
+🌱 I’m a Python enthusiast currently learning Django  
 👨‍💻 All of my projects are available at [My GitHub](https://github.com/amondickson)  
 📫 You can reach me via [Email](mailto:techwithamon@gmail.com)  
 
@@ -10,13 +10,13 @@ A passionate Programmer from Ghana
 
 ## 🌍 Connect with me:  
 <p align="left">
-  <a href="https://www.linkedin.com/in/dickson-amon-70a38a301" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/dickson-amon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twittehttps://www.google.com/search?q=gmail+inbox&sca_esv=591204243&sxsrf=AM9HkKku8undyeVnxXyjE2JuOnWjtbGu7A%3A1702643698300&ei=8kd8Zeb8Ed2ChbIP3YWbgAw&oq=gmail&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWdtYWlsKgIIADIHECMYsAMYJzIHECMYsAMYJzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0ivEVAAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEA4gMEGAAgQYgGAZAGCQ&sclient=gws-wiz-serpr.com/Orio_Flames" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/Orio_Flames" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
-  <a href="https://instagram.com/orio.lucky " target="_blank">
+  <a href="https://instagram.com/orio.lucky" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
@@ -32,7 +32,7 @@ A passionate Programmer from Ghana
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -57,12 +57,13 @@ A passionate Programmer from Ghana
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amondickson&show_icons=true&theme=dark" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amondickson&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amondickson&theme=dark" alt="GitHub Streak">
 </p>
 
 ---
 
 ## ☕ Support Me  
 If you like my work, consider supporting me:  
-<a href="your-buymeacoffee-url" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee">
+<a href="https://buymeacoffee.com/amondickson" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
 </a>
