@@ -1,8 +1,8 @@
 # Hi 👋, I'm Dickson Amon  
 A passionate Programmer from Ghana  
 
-🔭 I’m currently studying IT at Ho Technical University  
-🌱 I’m currently learning Django  
+🔭 I’m currently studying Information Technology at Ho Technical University  
+🌱 I’m a python enthusiast currently learning Django  
 👨‍💻 All of my projects are available at [My GitHub](https://github.com/amondickson)  
 📫 You can reach me via [Email](mailto:techwithamon@gmail.com)  
 
