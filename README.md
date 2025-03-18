@@ -13,9 +13,11 @@ A passionate Programmer from Ghana
   <a href="https://www.linkedin.com/in/dickson-amon-70a38a301" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
   </a>  
+  &nbs;
   <a href="https://twitter.com/Orio_Flames" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40"/>
   </a>  
+  &nbs;
   <a href="https://instagram.com/orio.lucky" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
   </a>  
